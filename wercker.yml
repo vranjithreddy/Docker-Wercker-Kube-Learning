@@ -4,7 +4,7 @@
  
  build:
    # The steps that will  be executed on  build
-   # Steps make up the action in your pipeline
+   # Steps make up the action in your pipeline  
    
    steps:
 
